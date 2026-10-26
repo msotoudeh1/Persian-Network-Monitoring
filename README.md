@@ -3,7 +3,9 @@
 سپس فایل config.php را باز نموده و اطلاعات دیتابیس خود را وارد نمائید :
 
 define('DB_NAME', 'database_name');
+
 define('DB_USER', 'database_user'); // معمولاً نام کاربری با نام دیتابیس یکی است
+
 define('DB_PASS', 'database_password'); // رمز واقعی دیتابیس را وارد کنید
 
 
@@ -18,3 +20,4 @@ define('DB_PASS', 'database_password'); // رمز واقعی دیتابیس را
 
 <img width="1680" height="1487" alt="2" src="https://github.com/user-attachments/assets/c8c8a5b2-8d48-40ae-b709-d0bed6b5710d" />
 
+<img width="1680" height="881" alt="3" src="https://github.com/user-attachments/assets/d516d3b9-2d58-4eea-80f2-b8b10b14a211" />
